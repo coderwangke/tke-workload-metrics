@@ -6,11 +6,11 @@
 
 ``` yaml
 # .metrics/config.yaml
-region: 
-clusterID: 
-namespace:
-secretID:
-secretKey:
+region: ap-guangzhou
+clusterID: cls-xxx
+namespace: default
+secretID: 
+secretKey: 
 ```
 
 ## 如何运行
